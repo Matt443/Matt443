@@ -28,6 +28,6 @@ I'm always open to collaborating and discussing tech!
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats]([https://github-readme-stats.vercel.app/api/top-langs/?username=Matt443&theme=default&show_icons=true&hide_border=true&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=Matt443&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Matt443&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 _Persistence is key! 🚀_
