@@ -7,7 +7,7 @@
 TypeScript • PHP8 • CSS3 • HTML5 • SQL • JSON  
 
 ### ⚙️ Frameworks & Tools  
-Nuxt.js • React • Node.js • Express.js • WordPress • Docker • JSX • Tailwind • SCSS • MySQL • PostgreSQL  
+Nuxt.js  • Node.js • Express.js • WordPress • Docker • JSX • Tailwind • SCSS • MySQL • PostgreSQL • React.js
 
 ### 🔧 Other Skills  
 REST-API • Unit Testing • E2E Testing • CORS • Git • MVC • OOP • Data Scraping  
