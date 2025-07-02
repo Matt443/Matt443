@@ -1,4 +1,4 @@
-![TEST](https://github-profile-trophy.vercel.app/?username=Matt443&title=Experience,Commits&theme=gruvbox)
+![TEST](https://github-profile-trophy.vercel.app/?username=Matt443&title=Experience,Commits,PullRequest&theme=gruvbox)
 # 👋 Hey, I'm Marcin!  
 
 🚀Passionate about technology and software development, always exploring new ideas and building innovative solutions.
